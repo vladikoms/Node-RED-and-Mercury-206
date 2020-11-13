@@ -1,5 +1,5 @@
 # Node-RED-and-Mercury-206
-Пример обработки данных счетчика эл. энергии Меркурий 206 в Node-RED. Для связи со счетчиком использован "RS485 to USB adapter" c aliexpress.
+Пример обработки данных счетчика эл. энергии Меркурий 206 в Node-RED. Для связи со счетчиком использован дешевый переходник "RS485 to USB adapter" c aliexpress.
 
 ![screenshot of sample](https://github.com/vladikoms/Node-RED-and-Mercury-206/blob/main/01.jpg)
 
