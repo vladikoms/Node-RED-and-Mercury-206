@@ -3,7 +3,7 @@
 
 ![screenshot of sample](https://github.com/vladikoms/Node-RED-and-Mercury-206/blob/main/01.jpg)
 
-В репозитории загружен файл потока Node-RED flows.json. Дополнительно необходимо установить ноды node-red-node-serialport и node-red-dashboard через меню Node-RED: Menu > Manage palette > Install
+В репозитории загружен файл потока Node-RED <B>flows.json</B>. Дополнительно необходимо установить ноды <B>node-red-node-serialport</B> и <B>node-red-dashboard</B> через меню Node-RED: <B>Menu > Manage palette > Install</B>
 
 ![screenshot of sample](https://github.com/vladikoms/Node-RED-and-Mercury-206/blob/main/Node_red.jpg)
 
