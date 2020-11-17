@@ -21,8 +21,10 @@ var serial = 42356415;
 
 1. Как соединить Simatic IOT2040 и электросчетчик «Меркурий». https://zen.yandex.ru/media/id/5d0cd52d70a11800afed36e2/kak-soedinit-simatic-iot2040-i-elektroschetchik-merkurii-5d0d167ba346fd00affa67be
 
-2. Протокол обмена однофазных счетчиков Меркурий 200, 201, 203 (кроме Меркурий 203.2TD), 206. https://www.incotexcom.ru/files/em/docs/mercury-protocol-obmena-1.pdf
+2. Умный счетчик Меркурий 206. Интегрируем в Node-RED и контролируем качество электрической энергии. https://vladikoms.livejournal.com/147930.html
 
-3. Node-red-node-serialport https://flows.nodered.org/node/node-red-node-serialport
+3. Протокол обмена однофазных счетчиков Меркурий 200, 201, 203 (кроме Меркурий 203.2TD), 206. https://www.incotexcom.ru/files/em/docs/mercury-protocol-obmena-1.pdf
 
-4. Node-red-dashboard https://flows.nodered.org/node/node-red-dashboard
+4. Node-red-node-serialport https://flows.nodered.org/node/node-red-node-serialport
+
+5. Node-red-dashboard https://flows.nodered.org/node/node-red-dashboard
